@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "toolId": "process-monitor",
+  "status": "paused",
+  "originalEntry": "original-source/powertool/page2.py",
+  "packageOwner": "remote-notifications",
+  "buildScript": null
+}
