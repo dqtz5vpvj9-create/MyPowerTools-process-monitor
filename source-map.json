@@ -34,16 +34,16 @@
   "archivedIntegrationSnapshots": [
     {
       "path": "current-integration/src/AndroidTools.MyPowerTools",
-      "recoveryCommit": "cfe01a32a6f410b83ae7fc8570a3023cc4f3ad60",
+      "recoveryCommit": "a8cda6be8d4c499401f2e25f9d9fc1c2e37a61b2",
       "fileCount": 2,
-      "physicalLines": 2260,
+      "physicalLines": 2263,
       "recoveryDocument": "current-integration/ARCHIVED-SNAPSHOTS.md"
     },
     {
       "path": "current-integration/src/AndroidTools.Runtime",
-      "recoveryCommit": "cfe01a32a6f410b83ae7fc8570a3023cc4f3ad60",
+      "recoveryCommit": "a8cda6be8d4c499401f2e25f9d9fc1c2e37a61b2",
       "fileCount": 2,
-      "physicalLines": 566,
+      "physicalLines": 567,
       "recoveryDocument": "current-integration/ARCHIVED-SNAPSHOTS.md"
     }
   ]
